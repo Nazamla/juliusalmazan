@@ -1,0 +1,47 @@
+body{
+	padding-top: 50px;
+	background-image: url("/images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+section {
+	min-height: 500px;
+	padding-top: 40px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.profile {
+	max-width: 200px;
+	max-height: 200px;
+	border-radius: 50%;
+}
+
+.section-head {
+	margin-bottom: 50px;
+}
+
+#banner {
+	background-color: transparent;
+	padding-top: 100px;
+	padding-bottom: 200px;
+
+	color: white;
+}
+
+#about {
+	background-color: rgba(174, 168, 211, .7);
+}
+
+#works {
+
+	background-color: rgba(25, 181, 254, .7);
+}
+
+#contact {
+
+	background-color: rgba(162, 222, 208, .7);
+}
